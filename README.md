@@ -26,7 +26,7 @@ Together, these exercises demonstrate foundational cloud computing, web hosting,
 
 ![AWS Auto Scaling Group](screenshots/id6.png)
 
-![AWS Auto Scaling Group](screenshots/id1.png)
+![AWS Auto Scaling Group](screenshots/id1.PNG)
 
 ## Technologies Used
 
